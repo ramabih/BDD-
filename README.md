@@ -1,4 +1,4 @@
-# alcaraz-bihurriet-salto-tp
+# Trabajo Practico Bases de Datos
 
 Trabajo Práctico
 Bases de Datos I − Primer Semestre 2021
